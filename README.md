@@ -1,2 +1,115 @@
 # jstrackresources
 A README.MD file for collecting resources.
+
+
+* [Tracks Resources](#tracks-resources)
+  * [Assignments](#assignments)
+  * [Manuals](#manuals)
+  * [HTML5](#html5)
+  * [Wireframing](#wireframing)
+  * [CSS](#css)
+  * [JavaScript](#javascript)
+  * [Git](#git)
+  * [jQuery](#jquery)
+  * [Bootstrap](#bootstrap)
+  * [Ajax](#ajax)
+  * [Deployment](#deployment)
+
+
+## Assignments
+*[Store App Assignment]()
+*[Store App Student Examples]()
+*[Store App Video 1]()
+
+*[JavaScript Library]()
+*[JavaScript Library Examples]()
+
+*[Portfolio Assignment]()
+
+## Manuals
+
+* [jQuery Manual](https://docs.google.com/document/d/1EGO241rMJ8kkU3I1SdTjhO0iqJDdfflLejRuYMaGrFc/edit?usp=sharing) - jQuery Manual for walkthrough of basics.
+
+* [Bootstrap Manual](https://docs.google.com/document/d/1hUxtBVhe8IhICIVzs5ODl2XyIf-7eNRBS-NSIkQLA1Y/edit?usp=sharing) - Bootstrap Manual for Docs walkthrough.
+
+* [HTTP Fundamentals]() - HTTP Fundamentals/Ajax class notes/manual with Friends List Lesson.
+
+
+## HTML5
+
+* [HTML5](https://www.w3.org/TR/html5/) - The go to docs for HTML5.
+* [W3SCHOOLS](w3schools.org) - Use this one sparingly and only for initial quick reference.
+
+* [HTML Validator](https://about.validator.nu/) - An intermediate concept. HTML validator.
+
+## Wireframing 
+* [gravit](https://gravit.io/) Free tool for mockups early on.
+* [balsamiq](https://balsamiq.com/) 30 day trial. The industry standard tool for wireframing. Students love it, but it's $$.
+
+## CSS
+* [CSS Basics](http://www.cssbasics.com/) - Basics for CSS.
+
+* [CSS Tricks](https://css-tricks.com/examples/ShapesOfCSS/) - CSS Shapes here, but CSS tricks is a great site that students need to see.
+
+* [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) -
+Starter guide to Flexbox
+
+* [CSS Techniques](http://tutorialzine.com/2014/07/20-impressive-css3-techniques-libraries-and-examples/) - A smorgasbord of CSS techniques.
+
+## JavaScript
+* [JS Style Guide](http://standardjs.com/rules.html#javascript-standard-style) - Standard JS style guide.
+
+* [The Good Parts](http://bdcampbell.net/javascript/book/javascript_the_good_parts.pdf) - The go to for JavaScript. We'll show them this as a resource for building a library.
+
+* [Eloquent JS](http://eloquentjavascript.net/) - Free book. Very famous. Beginning students should know about it. 
+
+* [Bob Tabor](https://www.youtube.com/watch?v=8-IamMFv-54) - Bob Tabor's JS videos produced by Microsoft. Many students have enjoyed these videos and feel like it helps them understand things really well.
+
+## Git
+
+* [Official Git Book](https://git-scm.com/book/en/v2) - The go to source for learning Git.
+
+* [Common Config Error](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup) - This is a frequent issue with students when getting started.
+
+* [Pull Requests](https://help.github.com/articles/creating-a-pull-request/) - A good walkthrough on Github of how to do Pull Requests.
+
+* [Deleting a Branch](http://stackoverflow.com/questions/2003505/how-to-delete-a-git-branch-both-locally-and-remotely) - Students are always wondering about how to delete a branch.
+
+## jQuery
+
+* [jQuery TODO List](https://www.sitepoint.com/building-list-jquery-local-storage/) - A solid tutorial for building a jQuery ToDo List.
+
+## Bootstrap
+* [Get Bootstrap](http://getbootstrap.com/) - The official Bootstrap starter site.
+
+* [Start Bootstrap](https://startbootstrap.com/) - A template 
+
+* [Bootstrap Zero](https://www.bootstrapzero.com/) - Minimalistic Bootstrap templates.
+
+## Ajax
+* [HTTP Fundamenals](https://docs.google.com/document/d/1a4kVCRnrzCuR9rzDb_c4nQZHZxNrZqSlNQijISEoafU/edit?usp=sharing) - Http fundamenals student manual.
+
+JavaScript
+JavaScript 
+
+Bootstrap
+Bootstrap Fundamentals Manual
+Bootstrap Docs
+Bootstrap Templates
+
+jQuery
+jQuery Fundamentals Manual
+jQuery Docs
+jQueryUI Docs
+
+
+
+HTTP Fundamentals Manual
+https://docs.google.com/document/d/1a4kVCRnrzCuR9rzDb_c4nQZHZxNrZqSlNQijISEoafU/edit?usp=sharing
+
+
+Friends App
+http://efa-friends-demo.herokuapp.com/
+
+Mustache Library Used
+https://github.com/janl/mustache.js/
