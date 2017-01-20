@@ -17,16 +17,28 @@ A README.MD file for collecting resources.
 
 
 ## Assignments
-*[Store App Assignment]()
-*[Store App Student Examples]()
-*[Store App Video 1]()
+*[Store App Assignment](https://docs.google.com/document/d/1u-GN9Jh1kThcTJLgjX1vHCg1NXGevBMvVLCVPFRaMQ4/edit?usp=sharing) - Store App Assignment
 
-*[JavaScript Library]()
-*[JavaScript Library Examples]()
+*[Store App Example Repo](https://github.com/jpauloconnor/SampleStoreApp) - Robot Store Example
+
+*[JavaScript Library](https://docs.google.com/document/d/16miQTFWoS0Pb2LDud_C6VzVEdqRq1fCk9YUiti_JV6k/edit?usp=sharing) - JS Library Assignment Sheet
+
+*[JavaScript Library Example](https://github.com/jpauloconnor/JSOpenSourceLibrary) - Paul's Open Source Library for JavaScript
 
 *[Portfolio Assignment]()
 
 ## Manuals
+* [Track Slides](https://docs.google.com/presentation/d/1doPykAEcIyJTAO2kCh9iOLcV8rad2OaFPTDFIA-4p2A/edit?usp=sharing) - Ongoing slide deck for the track.
+
+* [HTML, CSS, JavaScript](https://docs.google.com/document/d/1jvzzQpDZVHm6MdxBaozfmlk6Lzb9b2OIxIGaetSXSsw/edit?usp=sharing) - Notes and code from Week 1.
+
+
+*[Store App Video 1](https://www.youtube.com/watch?v=IfVjjpXb7qU&feature=youtu.be) - Header
+*[Store App Video 2](https://www.youtube.com/watch?v=6i-YKdON5iU&feature=youtu.be) - Banner
+*[Store App Video 3](https://www.youtube.com/watch?v=-NZ2q03FotY&feature=youtu.be) - Aside
+*[Store App Video 4](https://www.youtube.com/watch?v=xyJ2X9V438w) - Main Section
+*[Store App Video 5](https://www.youtube.com/watch?v=XzvmpfKoaOk) - Main Section Part 2
+*[Store App Video 6](https://www.youtube.com/watch?v=qreQvkNz2fA&feature=youtu.be&hd=1) - Footer
 
 * [jQuery Manual](https://docs.google.com/document/d/1EGO241rMJ8kkU3I1SdTjhO0iqJDdfflLejRuYMaGrFc/edit?usp=sharing) - jQuery Manual for walkthrough of basics.
 
@@ -39,7 +51,6 @@ A README.MD file for collecting resources.
 
 * [HTML5](https://www.w3.org/TR/html5/) - The go to docs for HTML5.
 * [W3SCHOOLS](w3schools.org) - Use this one sparingly and only for initial quick reference.
-
 * [HTML Validator](https://about.validator.nu/) - An intermediate concept. HTML validator.
 
 ## Wireframing 
@@ -47,32 +58,23 @@ A README.MD file for collecting resources.
 * [balsamiq](https://balsamiq.com/) 30 day trial. The industry standard tool for wireframing. Students love it, but it's $$.
 
 ## CSS
+
 * [CSS Basics](http://www.cssbasics.com/) - Basics for CSS.
-
+* [Margins & Padding](http://codepen.io/jamespauloconnor/pen/KMVJPE) - Codepen that we did to learn Margins & Padding.
 * [CSS Tricks](https://css-tricks.com/examples/ShapesOfCSS/) - CSS Shapes here, but CSS tricks is a great site that students need to see.
-
-* [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) -
-Starter guide to Flexbox
-
 * [CSS Techniques](http://tutorialzine.com/2014/07/20-impressive-css3-techniques-libraries-and-examples/) - A smorgasbord of CSS techniques.
 
 ## JavaScript
 * [JS Style Guide](http://standardjs.com/rules.html#javascript-standard-style) - Standard JS style guide.
-
 * [The Good Parts](http://bdcampbell.net/javascript/book/javascript_the_good_parts.pdf) - The go to for JavaScript. We'll show them this as a resource for building a library.
-
 * [Eloquent JS](http://eloquentjavascript.net/) - Free book. Very famous. Beginning students should know about it. 
-
 * [Bob Tabor](https://www.youtube.com/watch?v=8-IamMFv-54) - Bob Tabor's JS videos produced by Microsoft. Many students have enjoyed these videos and feel like it helps them understand things really well.
 
 ## Git
 
 * [Official Git Book](https://git-scm.com/book/en/v2) - The go to source for learning Git.
-
 * [Common Config Error](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup) - This is a frequent issue with students when getting started.
-
 * [Pull Requests](https://help.github.com/articles/creating-a-pull-request/) - A good walkthrough on Github of how to do Pull Requests.
-
 * [Deleting a Branch](http://stackoverflow.com/questions/2003505/how-to-delete-a-git-branch-both-locally-and-remotely) - Students are always wondering about how to delete a branch.
 
 ## jQuery
@@ -81,35 +83,14 @@ Starter guide to Flexbox
 
 ## Bootstrap
 * [Get Bootstrap](http://getbootstrap.com/) - The official Bootstrap starter site.
-
 * [Start Bootstrap](https://startbootstrap.com/) - A template 
-
 * [Bootstrap Zero](https://www.bootstrapzero.com/) - Minimalistic Bootstrap templates.
 
 ## Ajax
 * [HTTP Fundamenals](https://docs.google.com/document/d/1a4kVCRnrzCuR9rzDb_c4nQZHZxNrZqSlNQijISEoafU/edit?usp=sharing) - Http fundamenals student manual.
 
-JavaScript
-JavaScript 
-
-Bootstrap
-Bootstrap Fundamentals Manual
-Bootstrap Docs
-Bootstrap Templates
-
-jQuery
-jQuery Fundamentals Manual
-jQuery Docs
-jQueryUI Docs
 
 
-
-HTTP Fundamentals Manual
-https://docs.google.com/document/d/1a4kVCRnrzCuR9rzDb_c4nQZHZxNrZqSlNQijISEoafU/edit?usp=sharing
-
-
-Friends App
-http://efa-friends-demo.herokuapp.com/
 
 Mustache Library Used
 https://github.com/janl/mustache.js/
