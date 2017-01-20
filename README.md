@@ -72,6 +72,7 @@ A README.MD file for collecting resources.
 * [The Good Parts](http://bdcampbell.net/javascript/book/javascript_the_good_parts.pdf) - The go to for JavaScript. Good for building a library.
 * [Eloquent JS](http://eloquentjavascript.net/) - Free book. Very famous. Can be both simple and complicated.
 * [Bob Tabor](https://www.youtube.com/watch?v=8-IamMFv-54) - Bob Tabor's JS videos produced by Microsoft. Many students have enjoyed these videos and feel like it helps them understand JavaScript and jQuery really well.
+* [Project Euler](https://projecteuler.net/problem=1) - Problems that you could do in your library.
 
 ## Git
 
