@@ -58,25 +58,25 @@ A README.MD file for collecting resources.
 
 ## Wireframing 
 * [gravit](https://gravit.io/) Free tool for mockups early on.
-* [balsamiq](https://balsamiq.com/) 30 day trial. The industry standard tool for wireframing. Students love it, but it's $$.
+* [balsamiq](https://balsamiq.com/) 30 day trial. The industry standard tool for wireframing. We love it, but it's $$.
 
 ## CSS
 
 * [CSS Basics](http://www.cssbasics.com/) - Basics for CSS.
 * [Margins & Padding](http://codepen.io/jamespauloconnor/pen/KMVJPE) - Codepen that we did to learn Margins & Padding.
-* [CSS Tricks](https://css-tricks.com/examples/ShapesOfCSS/) - CSS Shapes here, but CSS tricks is a great site that students need to see.
+* [CSS Tricks](https://css-tricks.com/examples/ShapesOfCSS/) - CSS Shapes here, but CSS tricks is a great site that you need to see.
 * [CSS Techniques](http://tutorialzine.com/2014/07/20-impressive-css3-techniques-libraries-and-examples/) - A smorgasbord of CSS techniques.
 
 ## JavaScript
 * [JS Style Guide](http://standardjs.com/rules.html#javascript-standard-style) - Standard JS style guide.
-* [The Good Parts](http://bdcampbell.net/javascript/book/javascript_the_good_parts.pdf) - The go to for JavaScript. We'll show them this as a resource for building a library.
-* [Eloquent JS](http://eloquentjavascript.net/) - Free book. Very famous. Beginning students should know about it. 
-* [Bob Tabor](https://www.youtube.com/watch?v=8-IamMFv-54) - Bob Tabor's JS videos produced by Microsoft. Many students have enjoyed these videos and feel like it helps them understand things really well.
+* [The Good Parts](http://bdcampbell.net/javascript/book/javascript_the_good_parts.pdf) - The go to for JavaScript. Good for building a library.
+* [Eloquent JS](http://eloquentjavascript.net/) - Free book. Very famous. Can be both simple and complicated.
+* [Bob Tabor](https://www.youtube.com/watch?v=8-IamMFv-54) - Bob Tabor's JS videos produced by Microsoft. Many students have enjoyed these videos and feel like it helps them understand JavaScript and jQuery really well.
 
 ## Git
 
 * [Official Git Book](https://git-scm.com/book/en/v2) - The go to source for learning Git.
-* [Common Config Error](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup) - This is a frequent issue with students when getting started.
+* [Common Config Error](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup) - This is a frequent issue with when getting started.
 * [Pull Requests](https://help.github.com/articles/creating-a-pull-request/) - A good walkthrough on Github of how to do Pull Requests.
 * [Deleting a Branch](http://stackoverflow.com/questions/2003505/how-to-delete-a-git-branch-both-locally-and-remotely) - Students are always wondering about how to delete a branch.
 
@@ -92,8 +92,3 @@ A README.MD file for collecting resources.
 ## Ajax
 * [HTTP Fundamenals](https://docs.google.com/document/d/1a4kVCRnrzCuR9rzDb_c4nQZHZxNrZqSlNQijISEoafU/edit?usp=sharing) - Http fundamenals student manual.
 
-
-
-
-Mustache Library Used
-https://github.com/janl/mustache.js/
