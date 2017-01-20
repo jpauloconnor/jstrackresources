@@ -17,33 +17,38 @@ A README.MD file for collecting resources.
 
 
 ## Assignments
-*[Store App Assignment](https://docs.google.com/document/d/1u-GN9Jh1kThcTJLgjX1vHCg1NXGevBMvVLCVPFRaMQ4/edit?usp=sharing) - Store App Assignment
+* [Store App Assignment](https://docs.google.com/document/d/1u-GN9Jh1kThcTJLgjX1vHCg1NXGevBMvVLCVPFRaMQ4/edit?usp=sharing) - Store App Assignment
 
-*[Store App Example Repo](https://github.com/jpauloconnor/SampleStoreApp) - Robot Store Example
+* [Store App Example Repo](https://github.com/jpauloconnor/SampleStoreApp) - Robot Store Example
 
-*[JavaScript Library](https://docs.google.com/document/d/16miQTFWoS0Pb2LDud_C6VzVEdqRq1fCk9YUiti_JV6k/edit?usp=sharing) - JS Library Assignment Sheet
+* [JavaScript Library](https://docs.google.com/document/d/16miQTFWoS0Pb2LDud_C6VzVEdqRq1fCk9YUiti_JV6k/edit?usp=sharing) - JS Library Assignment Sheet
 
-*[JavaScript Library Example](https://github.com/jpauloconnor/JSOpenSourceLibrary) - Paul's Open Source Library for JavaScript
+* [JavaScript Library Example](https://github.com/jpauloconnor/JSOpenSourceLibrary) - Paul's Open Source Library for JavaScript
 
-*[Portfolio Assignment]()
+* [Portfolio Assignment]()
 
 ## Manuals
-*[Track Slides](https://docs.google.com/presentation/d/1doPykAEcIyJTAO2kCh9iOLcV8rad2OaFPTDFIA-4p2A/edit?usp=sharing) - Ongoing slide deck for the track.
+* [Track Slides](https://docs.google.com/presentation/d/1doPykAEcIyJTAO2kCh9iOLcV8rad2OaFPTDFIA-4p2A/edit?usp=sharing) - Ongoing slide deck for the track.
 
-*[HTML, CSS, JavaScript](https://docs.google.com/document/d/1jvzzQpDZVHm6MdxBaozfmlk6Lzb9b2OIxIGaetSXSsw/edit?usp=sharing) - Notes and code from Week 1.
-*[Store App Video 1](https://www.youtube.com/watch?v=IfVjjpXb7qU&feature=youtu.be) - Header
-*[Store App Video 2](https://www.youtube.com/watch?v=6i-YKdON5iU&feature=youtu.be) - Banner
-*[Store App Video 3](https://www.youtube.com/watch?v=-NZ2q03FotY&feature=youtu.be) - Aside
-*[Store App Video 4](https://www.youtube.com/watch?v=xyJ2X9V438w) - Main Section
-*[Store App Video 5](https://www.youtube.com/watch?v=XzvmpfKoaOk) - Main Section Part 2
-*[Store App Video 6](https://www.youtube.com/watch?v=qreQvkNz2fA&feature=youtu.be&hd=1) - Footer
+* [HTML, CSS, JavaScript](https://docs.google.com/document/d/1jvzzQpDZVHm6MdxBaozfmlk6Lzb9b2OIxIGaetSXSsw/edit?usp=sharing) - Notes and code from Week 1.
+
+* [Store App Video 1](https://www.youtube.com/watch?v=IfVjjpXb7qU&feature=youtu.be) - Header
+
+* [Store App Video 2](https://www.youtube.com/watch?v=6i-YKdON5iU&feature=youtu.be) - Banner
+
+* [Store App Video 3](https://www.youtube.com/watch?v=-NZ2q03FotY&feature=youtu.be) - Aside
+
+* [Store App Video 4](https://www.youtube.com/watch?v=xyJ2X9V438w) - Main Section
+
+* [Store App Video 5](https://www.youtube.com/watch?v=XzvmpfKoaOk) - Main Section Part 2
+
+* [Store App Video 6](https://www.youtube.com/watch?v=qreQvkNz2fA&feature=youtu.be&hd=1) - Footer
 
 * [jQuery Manual](https://docs.google.com/document/d/1EGO241rMJ8kkU3I1SdTjhO0iqJDdfflLejRuYMaGrFc/edit?usp=sharing) - jQuery Manual for walkthrough of basics.
 
 * [Bootstrap Manual](https://docs.google.com/document/d/1hUxtBVhe8IhICIVzs5ODl2XyIf-7eNRBS-NSIkQLA1Y/edit?usp=sharing) - Bootstrap Manual for Docs walkthrough.
 
 * [HTTP Fundamentals]() - HTTP Fundamentals/Ajax class notes/manual with Friends List Lesson.
-
 
 ## HTML5
 
