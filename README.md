@@ -28,11 +28,9 @@ A README.MD file for collecting resources.
 *[Portfolio Assignment]()
 
 ## Manuals
-* [Track Slides](https://docs.google.com/presentation/d/1doPykAEcIyJTAO2kCh9iOLcV8rad2OaFPTDFIA-4p2A/edit?usp=sharing) - Ongoing slide deck for the track.
+*[Track Slides](https://docs.google.com/presentation/d/1doPykAEcIyJTAO2kCh9iOLcV8rad2OaFPTDFIA-4p2A/edit?usp=sharing) - Ongoing slide deck for the track.
 
-* [HTML, CSS, JavaScript](https://docs.google.com/document/d/1jvzzQpDZVHm6MdxBaozfmlk6Lzb9b2OIxIGaetSXSsw/edit?usp=sharing) - Notes and code from Week 1.
-
-
+*[HTML, CSS, JavaScript](https://docs.google.com/document/d/1jvzzQpDZVHm6MdxBaozfmlk6Lzb9b2OIxIGaetSXSsw/edit?usp=sharing) - Notes and code from Week 1.
 *[Store App Video 1](https://www.youtube.com/watch?v=IfVjjpXb7qU&feature=youtu.be) - Header
 *[Store App Video 2](https://www.youtube.com/watch?v=6i-YKdON5iU&feature=youtu.be) - Banner
 *[Store App Video 3](https://www.youtube.com/watch?v=-NZ2q03FotY&feature=youtu.be) - Aside
