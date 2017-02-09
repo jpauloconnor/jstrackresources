@@ -15,6 +15,8 @@ A README.MD file for collecting resources.
   * [Ajax](#ajax)
   * [Deployment](#deployment)
   * [WorkoutLog](#workoutlog)
+  * [MEAN.js](#meanjs)
+
 
 
 ## Assignments
@@ -101,41 +103,47 @@ A README.MD file for collecting resources.
 ## WorkoutLogVideos
 * [WorkoutLogVideo1](https://youtu.be/wcUOor76kQ0) Client Set up
 * [WorkoutLogVideo2](https://youtu.be/OcNSIg1W6m0) Server Set up
-* [WorkoutLogVideo3](https://youtu.be/HnL9QXEmA2g)
-Test API
+* [WorkoutLogVideo3](https://youtu.be/HnL9QXEmA2g) Test API
 * [WorkoutLogVideo4]() No video. Using Nodemon.js.
 * [WorkoutLogVideo5](https://youtu.be/qDUDvdIeDkY) - Middleware
 * [WorkoutLogVideo6]()
 * [WorkoutLogVideo7Part1](https://www.youtube.com/watch?v=GIYUcphrg10&feature=youtu.be) - Sequelize Part 1
 * [WorkoutLogVideo7Part2](https://www.youtube.com/watch?v=Uf_imd1c04s&feature=youtu.be) - Sequelize Part 2
-
 * [WorkoutLogVideo8]()
 * [WorkoutLogVideo9](https://youtu.be/gorBPuuhJoU) - Refactor
 * [WorkoutLogVideo10](https://youtu.be/HPVm0xGIZkM) - Routes
 * [WorkoutLogVideo11Part1](https://youtu.be/hHN2Sgjv67Y) - bcrypt part 1
 * [WorkoutLogVideo11Part2](https://youtu.be/hHN2Sgjv67Y) - bcrypt part 2
-
 * [WorkoutLogVideo12part1](https://youtu.be/at-dqveuOJI) - Validate Session Part 1
 * [WorkoutLogVideo12part2](https://youtu.be/uy4XzuaQbjg) - Validate Session Part 2
 * [WorkoutLogVideo12part2](https://youtu.be/vRbYmZmGc5s) - Validate Session Part 3
-
 * [WorkoutLogVideo13](https://youtu.be/RGt_118OLn8) - uiaddtion, login modal 
 * [WorkoutLogVideo14and15part1](https://youtu.be/Uf_-kaee9lU) - signup part 1
 * [WorkoutLogVideo14and15part2](https://youtu.be/0Iu0ng5w33A) - signup part 2
 * [WorkoutLogVideo14and15part3](https://youtu.be/Azpsq7q51Bk) - signup part 3
-
 * [WorkoutLogVideo16](https://youtu.be/sVpnMy58NtI) - loginlogout
 * [WorkoutLogVideo17and18](https://youtu.be/3tkupOKlhCE) - 17 & 18 & Define
 * [WorkoutLogVideo19and20](https://youtu.be/SDDOusRHWHo) - 19 & 20 Log
 * [WorkoutLogVideo21](https://youtu.be/o0HFATH7m_E) - UIEnhancements
 * [WorkoutLogVideo22]()
 * [WorkoutLogVideo23]()
-
-## WorkoutLogResources
 * [WorkoutLogManualRepo](https://github.com/ElevenfiftyAcademy/JS201-WorkoutLog-Manual) WorkoutLog Manual Repo
 * [WorkoutLogCodeRepo](https://github.com/ElevenfiftyAcademy/JavaScript-201-WorkoutlogApp) - WorkoutLog Code Repo
 Manual 4 GoogleDoc(https://docs.google.com/document/d/1XwArUGVJ6aHF4bzUsFgNX3RUkhidkBeh38qOAmKnXN4/edit)
-* [WorkoutLo]
+* [WorkoutLogDeployed]
 
-## WorkoutLogDeployedExample
 
+##MEAN.js Project
+* [SOW](https://docs.google.com/document/d/1X7LlMlgF77HyMXMK-wJ6DNAznS65db6mR5vnDLcIve4/edit?usp=sharing) - Statement of Work for MEAN.js project.
+* []()
+* [MEAN.jsRepo](https://meanjs.org/) - MEAN.js Repo
+* [CodeSchool](https://www.codeschool.com/courses/shaping-up-with-angular-js) - CodeSchool Shaping Up with Angular Course
+* [PluralsightMongoose](https://app.pluralsight.com/library/courses/mongoose-for-nodejs-mongodb/table-of-contents) - Mongoose course that will help understand some important things about MongoDB.
+* [PluralsightMEAN.js](https://app.pluralsight.com/library/courses/meanjs-introduction/table-of-contents) - Pluralsight Course for an Introduction to MEAN.js.
+
+
+
+
+
+##Pizza Postman Challenge
+* [PostmanChallenge](https://docs.google.com/document/d/17j_6c_MrBKJmYG2FRZV91tOS8zgQ0kHlc7QQpfvTugQ/edit?usp=sharing) - Postman Challenge 
