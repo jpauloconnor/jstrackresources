@@ -153,7 +153,7 @@ Manual 4 GoogleDoc(https://docs.google.com/document/d/1XwArUGVJ6aHF4bzUsFgNX3RUk
 
 ## MERN
 * [Module0](https://docs.google.com/document/d/1OE7AW1_2mpFm9pV0E23xJPoqSG6QMbS6UUY5dx3KpAA/edit?usp=sharing) - Class Overview
-* [Video0]() - Video with explanation
+* [Video0](http://youtu.be/DOhRFEZHJhQ?hd=1) - Video with explanation of React & Redux overview for the course.
 * [Module1](https://docs.google.com/document/d/1xwEk-4S2fZtIq0PUyJj2DCqR_8vxk-OXeTZAMksecl8/edit?usp=sharing) - Server set up
 * [Video1](https://www.youtube.com/watch?v=_iNfC8b8tAs&feature=youtu.be) - Video with explanation
 
