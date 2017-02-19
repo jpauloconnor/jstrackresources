@@ -16,6 +16,7 @@ A README.MD file for collecting resources.
   * [Deployment](#deployment)
   * [WorkoutLog](#workoutlog)
   * [MEAN.js](#meanjs)
+  * [MERN](#mern)
 
 
 
@@ -142,8 +143,17 @@ Manual 4 GoogleDoc(https://docs.google.com/document/d/1XwArUGVJ6aHF4bzUsFgNX3RUk
 * [PluralsightMEAN.js](https://app.pluralsight.com/library/courses/meanjs-introduction/table-of-contents) - Pluralsight Course for an Introduction to MEAN.js.
 
 
-
-
-
 ##Pizza Postman Challenge
 * [PostmanChallenge](https://docs.google.com/document/d/17j_6c_MrBKJmYG2FRZV91tOS8zgQ0kHlc7QQpfvTugQ/edit?usp=sharing) - Postman Challenge 
+
+
+##MERN Resources
+
+
+* [Module0](https://docs.google.com/document/d/1OE7AW1_2mpFm9pV0E23xJPoqSG6QMbS6UUY5dx3KpAA/edit?usp=sharing) Class Overview
+* [Video0]() Video with explanation
+
+* [Module1](https://docs.google.com/document/d/1xwEk-4S2fZtIq0PUyJj2DCqR_8vxk-OXeTZAMksecl8/edit?usp=sharing) Server set up
+* [Video1](https://www.youtube.com/watch?v=_iNfC8b8tAs&feature=youtu.be) Video with explanation
+
+
