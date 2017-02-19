@@ -144,13 +144,14 @@ Manual 4 GoogleDoc(https://docs.google.com/document/d/1XwArUGVJ6aHF4bzUsFgNX3RUk
 * [PluralsightMongoose](https://app.pluralsight.com/library/courses/mongoose-for-nodejs-mongodb/table-of-contents) - Mongoose course that will help understand some important things about MongoDB.
 * [PluralsightMEAN.js](https://app.pluralsight.com/library/courses/meanjs-introduction/table-of-contents) - Pluralsight Course for an Introduction to MEAN.js.
 
-
+* [Deployment](https://docs.google.com/document/d/1aSdyZpKsOH9IF9EyaP-0stlCQMFwuBxspnzGHRNuhBM/edit)
+ Deployment plan by Doug Kiel.
+ 
 ## PizzaPostman
 * [PostmanChallenge](https://docs.google.com/document/d/17j_6c_MrBKJmYG2FRZV91tOS8zgQ0kHlc7QQpfvTugQ/edit?usp=sharing) - Postman Challenge 
 
 
 ## MERN
-
 * [Module0](https://docs.google.com/document/d/1OE7AW1_2mpFm9pV0E23xJPoqSG6QMbS6UUY5dx3KpAA/edit?usp=sharing) - Class Overview
 * [Video0]() - Video with explanation
 * [Module1](https://docs.google.com/document/d/1xwEk-4S2fZtIq0PUyJj2DCqR_8vxk-OXeTZAMksecl8/edit?usp=sharing) - Server set up
