@@ -134,7 +134,7 @@ Manual 4 GoogleDoc(https://docs.google.com/document/d/1XwArUGVJ6aHF4bzUsFgNX3RUk
 * [WorkoutLogDeployed]
 
 
-##MEAN.js Project
+## MEAN.js Project
 * [SOW](https://docs.google.com/document/d/1X7LlMlgF77HyMXMK-wJ6DNAznS65db6mR5vnDLcIve4/edit?usp=sharing) - Statement of Work for MEAN.js project.
 * []()
 * [MEAN.jsRepo](https://meanjs.org/) - MEAN.js Repo
@@ -143,11 +143,11 @@ Manual 4 GoogleDoc(https://docs.google.com/document/d/1XwArUGVJ6aHF4bzUsFgNX3RUk
 * [PluralsightMEAN.js](https://app.pluralsight.com/library/courses/meanjs-introduction/table-of-contents) - Pluralsight Course for an Introduction to MEAN.js.
 
 
-##Pizza Postman Challenge
+## Pizza Postman Challenge
 * [PostmanChallenge](https://docs.google.com/document/d/17j_6c_MrBKJmYG2FRZV91tOS8zgQ0kHlc7QQpfvTugQ/edit?usp=sharing) - Postman Challenge 
 
 
-##MERN Resources
+## MERN Resources
 
 
 * [Module0](https://docs.google.com/document/d/1OE7AW1_2mpFm9pV0E23xJPoqSG6QMbS6UUY5dx3KpAA/edit?usp=sharing) Class Overview
