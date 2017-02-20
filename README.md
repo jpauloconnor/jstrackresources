@@ -168,7 +168,7 @@ Manual 4 GoogleDoc(https://docs.google.com/document/d/1XwArUGVJ6aHF4bzUsFgNX3RUk
 | * [Module9](https://docs.google.com/document/d/1TPABhZPnRjlsMNkN6uRqJ4G42u-Ds75ElUxAT66sRCk/edit?usp=sharing) | * [Video9](http://youtu.be/GQjcZkJFLa4?hd=1)    | Sign In |
 | * [Module10](https://docs.google.com/document/d/1Z0k4hmxQca662sUzmq11B2t69qwXgNN2TPrv5MnvGK0/edit?usp=sharing) | * [Video10](http://youtu.be/ikfGjwjoPco?hd=1)    | Client Set up  |
 | No Module | * [ServerOverview](http://youtu.be/JNvfKx-R398?hd=1)    | Review of Concepts and Code  |
-| * [Syntax Highlighting](http://gunnariauvinen.com/getting-es6-syntax-highlighting-in-sublime-text/) |  Sublime Configuration|    |
+| * [Syntax Highlighting](http://gunnariauvinen.com/getting-es6-syntax-highlighting-in-sublime-text/) |  Sublime Configuration|  Necessary for React Syntax  |
 | * [Module10.1](https://docs.google.com/document/d/1B_ZjGgqehzlW4Oi72AOQdm61a7E1vpBBHrZKqMIZtQQ/edit?usp=sharing) | * [Video10.1](http://youtu.be/CAXUkmIgM54?hd=1)    |  React Fundamentals |
 | * [Module10.2](https://docs.google.com/document/d/1B_ZjGgqehzlW4Oi72AOQdm61a7E1vpBBHrZKqMIZtQQ/edit?usp=sharing) | * [Video10.2](http://youtu.be/19jf8J2qXqQ?hd=1)    |  JSX/Components |
 | * [Module10.3](https://docs.google.com/document/d/1B_ZjGgqehzlW4Oi72AOQdm61a7E1vpBBHrZKqMIZtQQ/edit?usp=sharing) | * [Video10.3](https://youtu.be/tehyW_cDYEA)    | Props/Components  |
@@ -178,7 +178,14 @@ Manual 4 GoogleDoc(https://docs.google.com/document/d/1XwArUGVJ6aHF4bzUsFgNX3RUk
 | * [Module11Part2](https://docs.google.com/document/d/14t1a51ZYlizMlKrOHUiTyZFtAJYxnERyOYPSUrBB6Cc/edit?usp=sharing) | * [Video11Part2](http://youtu.be/oxqAXIs2FOE?hd=1)    |  Search Bar Component |
 | * [Module11Part3](https://docs.google.com/document/d/14t1a51ZYlizMlKrOHUiTyZFtAJYxnERyOYPSUrBB6Cc/edit?usp=sharing) | * [Video11Part3](http://youtu.be/NEDEYPziAo4?hd=1)    |  Video Details Component|
 | * [Module11](https://docs.google.com/document/d/14t1a51ZYlizMlKrOHUiTyZFtAJYxnERyOYPSUrBB6Cc/edit?usp=sharing) | * [Video11Part4](http://youtu.be/eCRTSR86UAI?hd=1)    |  Video Component|
-| * [Module12]() | * [Video12]()    |   |
+| * [Module12.1](https://docs.google.com/document/d/1pT4QLlW18Kl67LVdRgBfBqPVDuv1XqpclBCZE8VHt2g/edit?usp=sharing) | * [Video12.1](http://youtu.be/WONrQTi0a1M?hd=1)    | Redux Intro  |
+| * [Module12.2](https://docs.google.com/document/d/1pT4QLlW18Kl67LVdRgBfBqPVDuv1XqpclBCZE8VHt2g/edit?usp=sharing) | * [Video12.2](http://youtu.be/1WP-O3vHqwI?hd=1)    |  Reducers |
+| * [Module12.3](https://docs.google.com/document/d/1pT4QLlW18Kl67LVdRgBfBqPVDuv1XqpclBCZE8VHt2g/edit?usp=sharing) | * [Video12.3](http://youtu.be/VfpBOaFM8uM?hd=1)    | Containers  |
+| * [Module12.4](https://docs.google.com/document/d/1pT4QLlW18Kl67LVdRgBfBqPVDuv1XqpclBCZE8VHt2g/edit?usp=sharing) | * [Video12.4](http://youtu.be/D7yep1pF5_Y?hd=1)    | Reducers/Containers Challenge  |
+| * [Module12.5](https://docs.google.com/document/d/1pT4QLlW18Kl67LVdRgBfBqPVDuv1XqpclBCZE8VHt2g/edit?usp=sharing) | * [Video12.5](http://youtu.be/za1WJZqfoPo?hd=1)    |  Actions |
+| * [Module12.6](https://docs.google.com/document/d/1pT4QLlW18Kl67LVdRgBfBqPVDuv1XqpclBCZE8VHt2g/edit?usp=sharing) | * [Video12.6](http://youtu.be/mYtriLSYosE?hd=1)    |  Action Creators |
+| * [Module12.7](https://docs.google.com/document/d/1pT4QLlW18Kl67LVdRgBfBqPVDuv1XqpclBCZE8VHt2g/edit?usp=sharing) | * [Video12.7](http://youtu.be/krToKX5JRAU?hd=1)    |  Ac |
+| * [Module12.8](https://docs.google.com/document/d/1ORxT-4rpn4BebhxZzJmi0NZkT-Lobf4Tgxzjtr2Ous8/edit?usp=sharing) | * [Video12.8]()    |  Redux Challenges |
 | * [Module13]() | * [Video13]()    |   |
 | * [Module14]() | * [Video14]()    |   |
 | * [Module15]() | * [Video15]()    |   |
