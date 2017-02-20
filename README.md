@@ -181,11 +181,12 @@ Manual 4 GoogleDoc(https://docs.google.com/document/d/1XwArUGVJ6aHF4bzUsFgNX3RUk
 | * [Module12.1](https://docs.google.com/document/d/1pT4QLlW18Kl67LVdRgBfBqPVDuv1XqpclBCZE8VHt2g/edit?usp=sharing) | * [Video12.1](http://youtu.be/WONrQTi0a1M?hd=1)    | Redux Intro  |
 | * [Module12.2](https://docs.google.com/document/d/1pT4QLlW18Kl67LVdRgBfBqPVDuv1XqpclBCZE8VHt2g/edit?usp=sharing) | * [Video12.2](http://youtu.be/1WP-O3vHqwI?hd=1)    |  Reducers |
 | * [Module12.3](https://docs.google.com/document/d/1pT4QLlW18Kl67LVdRgBfBqPVDuv1XqpclBCZE8VHt2g/edit?usp=sharing) | * [Video12.3](http://youtu.be/VfpBOaFM8uM?hd=1)    | Containers  |
-| * [Module12.4](https://docs.google.com/document/d/1pT4QLlW18Kl67LVdRgBfBqPVDuv1XqpclBCZE8VHt2g/edit?usp=sharing) | * [Video12.4](http://youtu.be/D7yep1pF5_Y?hd=1)    | Reducers/Containers Challenge  |
+| * [Module12.4](https://docs.google.com/document/d/1pT4QLlW18Kl67LVdRgBfBqPVDuv1XqpclBCZE8VHt2g/edit?usp=sharing) | * [Video12.4]()    | Reducers/Containers Challenge  |
 | * [Module12.5](https://docs.google.com/document/d/1pT4QLlW18Kl67LVdRgBfBqPVDuv1XqpclBCZE8VHt2g/edit?usp=sharing) | * [Video12.5](http://youtu.be/za1WJZqfoPo?hd=1)    |  Actions |
 | * [Module12.6](https://docs.google.com/document/d/1pT4QLlW18Kl67LVdRgBfBqPVDuv1XqpclBCZE8VHt2g/edit?usp=sharing) | * [Video12.6](http://youtu.be/mYtriLSYosE?hd=1)    |  Action Creators |
-| * [Module12.7](https://docs.google.com/document/d/1pT4QLlW18Kl67LVdRgBfBqPVDuv1XqpclBCZE8VHt2g/edit?usp=sharing) | * [Video12.7](http://youtu.be/krToKX5JRAU?hd=1)    |  Ac |
+| * [Module12.7]() | * [Video12.7](http://youtu.be/krToKX5JRAU?hd=1)    |  Action Creators Overview |
 | * [Module12.8](https://docs.google.com/document/d/1ORxT-4rpn4BebhxZzJmi0NZkT-Lobf4Tgxzjtr2Ous8/edit?usp=sharing) | * [Video12.8]()    |  Redux Challenges |
+
 | * [Module13]() | * [Video13]()    |   |
 | * [Module14]() | * [Video14]()    |   |
 | * [Module15]() | * [Video15]()    |   |
