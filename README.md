@@ -157,10 +157,9 @@ Manual 4 GoogleDoc(https://docs.google.com/document/d/1XwArUGVJ6aHF4bzUsFgNX3RUk
 | Module        | Video         | Concept  |
 | ------------- |:-------------:| -----:|
 | * [Module0](https://docs.google.com/document/d/1OE7AW1_2mpFm9pV0E23xJPoqSG6QMbS6UUY5dx3KpAA/edit?usp=sharing)      |* [Video0](http://youtu.be/DOhRFEZHJhQ?hd=1)   | Class Overview |
-| * [Module1](https://docs.google.com/document/d/1xwEk-4S2fZtIq0PUyJj2DCqR_8vxk-OXeTZAMksecl8/edit?usp=sharing)       | * [Video1](https://www.youtube.com/watch?v=_iNfC8b8tAs&feature=youtu.be) 
-     | Server set up |
+| * [Module1](https://docs.google.com/document/d/1xwEk-4S2fZtIq0PUyJj2DCqR_8vxk-OXeTZAMksecl8/edit?usp=sharing)       | * [Video1](https://www.youtube.com/watch?v=_iNfC8b8tAs&feature=youtu.be) | Server Set up |
 | * [Module2](https://docs.google.com/document/d/1692yNA_My5xcJltBwjag2TF1mN5OXxF2p5TIdsl_BUQ/edit?usp=sharing) | * [Video2](https://youtu.be/Wuzn_FTad9Y) | Express Server & Middleware Setup  |
-| * [Module3](https://docs.google.com/document/d/1J51V96wqW-aamOc9BSrHMRojO-HHiNGCVsq2E9t9WX8/edit?usp=sharing) | * [Video3](http://youtu.be/1hHDvl-_ztE?hd=1)    |   |
+| * [Module3](https://docs.google.com/document/d/1J51V96wqW-aamOc9BSrHMRojO-HHiNGCVsq2E9t9WX8/edit?usp=sharing) | * [Video3](http://youtu.be/1hHDvl-_ztE?hd=1)    |  Routes |
 | * [Module4](https://docs.google.com/document/d/1nyQIPAO6sOgAkBXQcY8RvpssTPVTZvxSCHvbOgFgGkQ/edit?usp=sharing) | * [Video4](http://youtu.be/tkkPZlaIGFY?hd=1)    |Mongoose   |
 | * [Module5](https://docs.google.com/document/d/1NW4HK9bhT81P886AmLErdZuaBxNfM-WJlkUuhWV4_n4/edit?usp=sharing) | * [Video5](http://youtu.be/jPmFVOnUoQI?hd=1)    |  API |
 | * [Module6](https://docs.google.com/document/d/1SJGnRczTS5xv6yB_Ffonwqbtr8haVLJNzTIqncWQ-9M/edit?usp=sharing) | * [Video6](http://youtu.be/MnavOvsj8Zg?hd=1)    | Encryption  |
