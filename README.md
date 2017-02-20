@@ -154,7 +154,6 @@ Manual 4 GoogleDoc(https://docs.google.com/document/d/1XwArUGVJ6aHF4bzUsFgNX3RUk
 
 ## MERN
 
-* [Sites using React](https://github.com/facebook/react/wiki/Sites-Using-React) - A list of sites using React.js. 
 | Module        | Video         | Concept  |
 | ------------- |:-------------:| -----:|
 | * [Module0](https://docs.google.com/document/d/1OE7AW1_2mpFm9pV0E23xJPoqSG6QMbS6UUY5dx3KpAA/edit?usp=sharing)      |* [Video0](http://youtu.be/DOhRFEZHJhQ?hd=1)   | Class Overview |
@@ -170,7 +169,7 @@ Manual 4 GoogleDoc(https://docs.google.com/document/d/1XwArUGVJ6aHF4bzUsFgNX3RUk
 | * [Module10](https://docs.google.com/document/d/1Z0k4hmxQca662sUzmq11B2t69qwXgNN2TPrv5MnvGK0/edit?usp=sharing) | * [Video10](http://youtu.be/ikfGjwjoPco?hd=1)    | Client Set up  |
 | No Module | * [ServerOverview](http://youtu.be/JNvfKx-R398?hd=1)    | Review of Concepts and Code  |
 
-| * [Syntax Highlighting](http://gunnariauvinen.com/getting-es6-syntax-highlighting-in-sublime-text/) |  Sublime Configuration| |
+| * [Syntax Highlighting](http://gunnariauvinen.com/getting-es6-syntax-highlighting-in-sublime-text/) |  Sublime Configuration|    |
 
 | * [Module10.1](https://docs.google.com/document/d/1B_ZjGgqehzlW4Oi72AOQdm61a7E1vpBBHrZKqMIZtQQ/edit?usp=sharing) | * [Video10.1](http://youtu.be/CAXUkmIgM54?hd=1)    |  React Fundamentals |
 
