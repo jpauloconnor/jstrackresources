@@ -157,12 +157,34 @@ Manual 4 GoogleDoc(https://docs.google.com/document/d/1XwArUGVJ6aHF4bzUsFgNX3RUk
 | Module        | Video         | Concept  |
 | ------------- |:-------------:| -----:|
 | * [Module0](https://docs.google.com/document/d/1OE7AW1_2mpFm9pV0E23xJPoqSG6QMbS6UUY5dx3KpAA/edit?usp=sharing)      |* [Video0](http://youtu.be/DOhRFEZHJhQ?hd=1)   | Class Overview |
-|       |       |    |
-|  |       |   |
+| * [Module1](https://docs.google.com/document/d/1xwEk-4S2fZtIq0PUyJj2DCqR_8vxk-OXeTZAMksecl8/edit?usp=sharing)       | * [Video1](https://www.youtube.com/watch?v=_iNfC8b8tAs&feature=youtu.be) 
+     | Server set up |
+| * [Module2](https://docs.google.com/document/d/1692yNA_My5xcJltBwjag2TF1mN5OXxF2p5TIdsl_BUQ/edit?usp=sharing) | * [Video2](https://youtu.be/Wuzn_FTad9Y) | Express Server & Middleware Setup  |
+| * [Module3](https://docs.google.com/document/d/1J51V96wqW-aamOc9BSrHMRojO-HHiNGCVsq2E9t9WX8/edit?usp=sharing) | * [Video3](http://youtu.be/1hHDvl-_ztE?hd=1)    |   |
+| * [Module4](https://docs.google.com/document/d/1nyQIPAO6sOgAkBXQcY8RvpssTPVTZvxSCHvbOgFgGkQ/edit?usp=sharing) | * [Video4](http://youtu.be/tkkPZlaIGFY?hd=1)    |Mongoose   |
+| * [Module5](https://docs.google.com/document/d/1NW4HK9bhT81P886AmLErdZuaBxNfM-WJlkUuhWV4_n4/edit?usp=sharing) | * [Video5](http://youtu.be/jPmFVOnUoQI?hd=1)    |  API |
+| * [Module6](https://docs.google.com/document/d/1SJGnRczTS5xv6yB_Ffonwqbtr8haVLJNzTIqncWQ-9M/edit?usp=sharing) | * [Video6](http://youtu.be/MnavOvsj8Zg?hd=1)    | Encryption  |
+| * [Module7](https://docs.google.com/document/d/1OEg5rXk6mnQDYz6LL2UhZUqqJ-7MaHT1YK732Mv8qnw/edit?usp=sharing) | * [Video7](http://youtu.be/YVeNwBsbRp8?hd=1)    | JWT Implementation  |
+| * [Module8](https://docs.google.com/document/d/1MGALGhT2aTOX8GXgPacRQw_1sHB-Q8GXW7pkQ4Uv3-U/edit?usp=sharing) | * [Video8](http://youtu.be/QJ-5Y1u5WEo?hd=1)    |  Passport   |
+| * [Module9](https://docs.google.com/document/d/1TPABhZPnRjlsMNkN6uRqJ4G42u-Ds75ElUxAT66sRCk/edit?usp=sharing) | * [Video9](http://youtu.be/GQjcZkJFLa4?hd=1)    | Sign In |
+| * [Module10](https://docs.google.com/document/d/1Z0k4hmxQca662sUzmq11B2t69qwXgNN2TPrv5MnvGK0/edit?usp=sharing) | * [Video10](http://youtu.be/ikfGjwjoPco?hd=1)    | Client Set up  |
+| No Module | * [ServerOverview](http://youtu.be/JNvfKx-R398?hd=1)    | Review of Concepts and Code  |
+| * [Module11]() | * [Video11]()    |   |
+| * [Module12]() | * [Video12]()    |   |
+| * [Module13]() | * [Video13]()    |   |
+| * [Module14]() | * [Video14]()    |   |
+| * [Module15]() | * [Video15]()    |   |
+| * [Module16]() | * [Video16]()    |   |
+| * [Module17]() | * [Video17]()    |   |
+| * [Module18]() | * [Video18]()    |   |
+| * [Module19]() | * [Video19]()    |   |
+| * [Module20]() | * [Video20]()    |   |
+| * [Module21]() | * [Video21]()    |   |
+| * [Module22]() | * [Video22]()    |   |
+| * [Module23]() | * [Video23]()    |   |
 
 
 
-* [Module1](https://docs.google.com/document/d/1xwEk-4S2fZtIq0PUyJj2DCqR_8vxk-OXeTZAMksecl8/edit?usp=sharing) - Server set up
-* [Video1](https://www.youtube.com/watch?v=_iNfC8b8tAs&feature=youtu.be) - Video with explanation
+
 
 
