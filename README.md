@@ -184,7 +184,7 @@ Manual 4 GoogleDoc(https://docs.google.com/document/d/1XwArUGVJ6aHF4bzUsFgNX3RUk
 | * [Module12.4](https://docs.google.com/document/d/1pT4QLlW18Kl67LVdRgBfBqPVDuv1XqpclBCZE8VHt2g/edit?usp=sharing) | * [Video12.4]()    | Reducers/Containers Challenge  |
 | * [Module12.5](https://docs.google.com/document/d/1pT4QLlW18Kl67LVdRgBfBqPVDuv1XqpclBCZE8VHt2g/edit?usp=sharing) | * [Video12.5](http://youtu.be/za1WJZqfoPo?hd=1)    |  Actions |
 | * [Module12.6](https://docs.google.com/document/d/1pT4QLlW18Kl67LVdRgBfBqPVDuv1XqpclBCZE8VHt2g/edit?usp=sharing) | * [Video12.6](http://youtu.be/mYtriLSYosE?hd=1)    |  Action Creators |
-| * [Module12.7]() | * [Video12.7](http://youtu.be/krToKX5JRAU?hd=1)    |  Action Creators Overview |
+| * [Module12.7]() | * [Video12.7](hhttp://youtu.be/q7ACsA7at6E?hd=1)    |  Creating an Action Creator for Band List |
 | * [Module12.8](https://docs.google.com/document/d/1pT4QLlW18Kl67LVdRgBfBqPVDuv1XqpclBCZE8VHt2g/edit?usp=sharing) | * [Video12.8]()    |  Redux Challenges |
 | * [No document](None) | * [React-router](https://youtu.be/N1rvFKWgpcM)    |  React Router Explanation |
 | * [Module12](https://docs.google.com/document/d/1dFBBwDOCS45C05xXlIm5hBLAj0P6kWb6UX8YlG1r7sQ/edit?usp=sharing) | * [Video12Part1](https://youtu.be/ba9t0-kvTtk)    |  Redux Forms Explanation |
