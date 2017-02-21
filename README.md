@@ -185,8 +185,8 @@ Manual 4 GoogleDoc(https://docs.google.com/document/d/1XwArUGVJ6aHF4bzUsFgNX3RUk
 | * [Module12.5](https://docs.google.com/document/d/1pT4QLlW18Kl67LVdRgBfBqPVDuv1XqpclBCZE8VHt2g/edit?usp=sharing) | * [Video12.5](http://youtu.be/za1WJZqfoPo?hd=1)    |  Actions |
 | * [Module12.6](https://docs.google.com/document/d/1pT4QLlW18Kl67LVdRgBfBqPVDuv1XqpclBCZE8VHt2g/edit?usp=sharing) | * [Video12.6](http://youtu.be/mYtriLSYosE?hd=1)    |  Action Creators |
 | * [Module12.7]() | * [Video12.7](http://youtu.be/krToKX5JRAU?hd=1)    |  Action Creators Overview |
-| * [Module12.8](https://docs.google.com/document/d/1ORxT-4rpn4BebhxZzJmi0NZkT-Lobf4Tgxzjtr2Ous8/edit?usp=sharing) | * [Video12.8]()    |  Redux Challenges |
-| * [Module12](None) | * [Video12Part1](https://youtu.be/N1rvFKWgpcM)    |  React Router Explanation |
+| * [Module12.8](https://docs.google.com/document/d/1pT4QLlW18Kl67LVdRgBfBqPVDuv1XqpclBCZE8VHt2g/edit?usp=sharing) | * [Video12.8]()    |  Redux Challenges |
+| * [No document](None) | * [React-route](https://youtu.be/N1rvFKWgpcM)    |  React Router Explanation |
 | * [Module12](https://docs.google.com/document/d/1dFBBwDOCS45C05xXlIm5hBLAj0P6kWb6UX8YlG1r7sQ/edit?usp=sharing) | * [Video12Part1](https://youtu.be/ba9t0-kvTtk)    |  Redux Forms Explanation |
 | * [Module12](https://docs.google.com/document/d/1xViWjbVRx9pUSPgbydY0Aw-OEq0Pc4H5Jkvf9V98LJI/edit?usp=sharing) | * [Video12Part2](http://youtu.be/8_gZ27AkBF4?hd=1)    |  Redux Form Challenge |
 | * [Module12](https://docs.google.com/document/d/1Zyi_cOYPqxfg7F9EzTxy62dEEy0q_Xgn4QMaxLFxws0/edit?usp=sharing) | * [Video12Part3]()    |  Challenge Answer |
