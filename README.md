@@ -193,10 +193,10 @@ Manual 4 GoogleDoc(https://docs.google.com/document/d/1XwArUGVJ6aHF4bzUsFgNX3RUk
 | * [Module13](https://docs.google.com/document/d/1jrLehAq5Mdeeyr0rtnOk9Avf0tKs0PJIS18ZM6CDI80/edit?usp=sharing) | * [Video13](http://youtu.be/J80IvRmyQR0?hd=1)    |  Action Creator |
 | * [Module14](https://docs.google.com/document/d/1ORxT-4rpn4BebhxZzJmi0NZkT-Lobf4Tgxzjtr2Ous8/edit?usp=sharing) | * [Video14](http://youtu.be/7HY5apFekvQ?hd=1)    |  Redux Thunk |
 | * [Module15](https://docs.google.com/document/d/1auR0SyzRARbgbNRfcmAQPrF7FBRK9JgSAFnp134fhpY/edit?usp=sharing) | * [Video15](http://youtu.be/x_X30nO2Vuk?hd=1)    | Cors  |
-| * [Module16]() | * [Video16]()    |   |
-| * [Module17]() | * [Video17]()    |   |
-| * [Module18]() | * [Video18]()    |   |
-| * [Module19]() | * [Video19]()    |   |
+| * [Module16](https://docs.google.com/document/d/19JS9CQnBKejvQclLf_Sr4KyhjLWDkgjXnqRi2YZyojs/edit?usp=sharing) | * [Video16](http://youtu.be/lJpxm81mDWw?hd=1)    | Authentication State  |
+| * [Module17](https://docs.google.com/document/d/1leu1_rkHeDGj3u76Kyw4fXATFcdVH0zFgBJlCNDiFKM/edit?usp=sharing) | * [Video17](http://youtu.be/GnFi1f91yrg?hd=1)    |  Auth Errors |
+| * [Module18](https://docs.google.com/document/d/1eL5J0Kp98XE4mzaYhH9zmlLNGXhC5HYX2cu5P7mEujo/edit?usp=sharing) | * [Video18](http://youtu.be/mV18jY8zWss?hd=1)    |  Nav State |
+| * [Module19](https://docs.google.com/document/d/1gQIk7Kq-h9tFIWUFGzIaMMuvRd5QHInucAGK0ZbZ8uM/edit?usp=sharing) | * [Video19](http://youtu.be/kK3ByopzjcM?hd=1)    |  Sign Out  |
 | * [Module20]() | * [Video20]()    |   |
 | * [Module21]() | * [Video21]()    |   |
 | * [Module22]() | * [Video22]()    |   |
