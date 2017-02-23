@@ -195,9 +195,9 @@ Manual 4 GoogleDoc(https://docs.google.com/document/d/1XwArUGVJ6aHF4bzUsFgNX3RUk
 | * [Module15](https://docs.google.com/document/d/1auR0SyzRARbgbNRfcmAQPrF7FBRK9JgSAFnp134fhpY/edit?usp=sharing) | * [Video15](http://youtu.be/x_X30nO2Vuk?hd=1)    | Cors  |
 | * [Module16](https://docs.google.com/document/d/19JS9CQnBKejvQclLf_Sr4KyhjLWDkgjXnqRi2YZyojs/edit?usp=sharing) | * [Video16](http://youtu.be/lJpxm81mDWw?hd=1)    | Authentication State  |
 | * [Module17](https://docs.google.com/document/d/1leu1_rkHeDGj3u76Kyw4fXATFcdVH0zFgBJlCNDiFKM/edit?usp=sharing) | * [Video17](http://youtu.be/GnFi1f91yrg?hd=1)    |  Auth Errors |
-| * [Module18](https://docs.google.com/document/d/1eL5J0Kp98XE4mzaYhH9zmlLNGXhC5HYX2cu5P7mEujo/edit?usp=sharing) | * [Video18](http://youtu.be/mV18jY8zWss?hd=1)    |  Nav State |
+| See video | * [Video18](http://youtu.be/mV18jY8zWss?hd=1)    |  Nav State |
 | * [Module19](https://docs.google.com/document/d/1gQIk7Kq-h9tFIWUFGzIaMMuvRd5QHInucAGK0ZbZ8uM/edit?usp=sharing) | * [Video19](http://youtu.be/kK3ByopzjcM?hd=1)    |  Sign Out  |
-| * [Module20]() | * [Video20]()    |   |
+| * [Module20](https://docs.google.com/document/d/1eOtnlFDiJAqgcToU57OOickWGzEDl_ojIVPXzWPN6to/edit?usp=sharing) | * [Video20]()    |   Challenge: Talk to an instructor when you're finished.|
 | * [Module21]() | * [Video21]()    |   |
 | * [Module22]() | * [Video22]()    |   |
 | * [Module23]() | * [Video23]()    |   |
