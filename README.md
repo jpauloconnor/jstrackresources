@@ -198,9 +198,9 @@ Manual 4 GoogleDoc(https://docs.google.com/document/d/1XwArUGVJ6aHF4bzUsFgNX3RUk
 | See video | * [Video18](http://youtu.be/mV18jY8zWss?hd=1)    |  Nav State |
 | * [Module19](https://docs.google.com/document/d/1gQIk7Kq-h9tFIWUFGzIaMMuvRd5QHInucAGK0ZbZ8uM/edit?usp=sharing) | * [Video19](http://youtu.be/kK3ByopzjcM?hd=1)    |  Sign Out  |
 | * [Module20](https://docs.google.com/document/d/1eOtnlFDiJAqgcToU57OOickWGzEDl_ojIVPXzWPN6to/edit?usp=sharing) | * [Video20]()    |   Challenge: Talk to an instructor when you're finished.|
-| * [Module21]() | * [Video21]()    |   |
-| * [Module22]() | * [Video22]()    |   |
-| * [Module23]() | * [Video23]()    |   |
+| * [Module21](https://docs.google.com/document/d/1Kk0DBeLns3DAPKh9ssVlU65CjAxKv0g5YlKvCjBFmMA/edit?usp=sharing) | * [Video21]()    | Authenticated Routes  |
+| * [Module22](https://docs.google.com/document/d/1gUM17vnqxBwEmsR4gpoEGMYXk8PghUldh_4xJM9Ui7I/edit?usp=sharing) | * [Video22]()    | Server Side Authenticated Routes  |
+| * [Module23](https://docs.google.com/document/d/1Kk0DBeLns3DAPKh9ssVlU65CjAxKv0g5YlKvCjBFmMA/edit?usp=sharing) | * [Video23]()    |  Client Side Authenticated Routes |
 
 
 
