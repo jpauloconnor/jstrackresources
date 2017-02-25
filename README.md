@@ -202,6 +202,8 @@ Manual 4 GoogleDoc(https://docs.google.com/document/d/1XwArUGVJ6aHF4bzUsFgNX3RUk
 | * [Module21](https://docs.google.com/document/d/1gUM17vnqxBwEmsR4gpoEGMYXk8PghUldh_4xJM9Ui7I/edit?usp=sharing) | * [Video21]()    | Server Side Authenticated Routes  |
 | * [Module22](https://docs.google.com/document/d/1Kk0DBeLns3DAPKh9ssVlU65CjAxKv0g5YlKvCjBFmMA/edit?usp=sharing) | * [Video22]()    | Client Side Authenticated Routes  |
 | * [Module23](https://docs.google.com/document/d/1nQ1pJiQmGOlzHogbcles1HZMxrJZojsS-NAF_mv_NXk/edit?usp=sharing) | * [Video23]()    | Server Side Fetch All  |
+| * [Module24](https://docs.google.com/document/d/1tjRYfMkpXQsXMGKOFuNftbau9s_sjpUP4ilHb4jN5tg/edit?usp=sharing) | * [Video24]()    | Client Side Fetch All  |
+
 
 
 
