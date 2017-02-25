@@ -72,6 +72,7 @@ A README.MD file for collecting resources.
 * [Margins & Padding](http://codepen.io/jamespauloconnor/pen/KMVJPE) - Codepen that we did to learn Margins & Padding.
 * [CSS Tricks](https://css-tricks.com/examples/ShapesOfCSS/) - CSS Shapes here, but CSS tricks is a great site that you need to see.
 * [CSS Techniques](http://tutorialzine.com/2014/07/20-impressive-css3-techniques-libraries-and-examples/) - A smorgasbord of CSS techniques.
+* [Complimentary Colors for CSS](http://paletton.com/#uid=1000u0k00uK00++00Nx01oR0iji) - A color picker that also shows complimentary colors with the selected color.
 
 ## JavaScript
 * [JS Style Guide](http://standardjs.com/rules.html#javascript-standard-style) - Standard JS style guide.
@@ -200,6 +201,7 @@ Manual 4 GoogleDoc(https://docs.google.com/document/d/1XwArUGVJ6aHF4bzUsFgNX3RUk
 | * [Module20](https://docs.google.com/document/d/1eOtnlFDiJAqgcToU57OOickWGzEDl_ojIVPXzWPN6to/edit?usp=sharing) | * [Video20]()    |   Challenge: Talk to an instructor when you're finished.|
 | * [Module21](https://docs.google.com/document/d/1gUM17vnqxBwEmsR4gpoEGMYXk8PghUldh_4xJM9Ui7I/edit?usp=sharing) | * [Video21]()    | Server Side Authenticated Routes  |
 | * [Module22](https://docs.google.com/document/d/1Kk0DBeLns3DAPKh9ssVlU65CjAxKv0g5YlKvCjBFmMA/edit?usp=sharing) | * [Video22]()    | Client Side Authenticated Routes  |
+| * [Module23](https://docs.google.com/document/d/1nQ1pJiQmGOlzHogbcles1HZMxrJZojsS-NAF_mv_NXk/edit?usp=sharing) | * [Video23]()    | Server Side Fetch All  |
 
 
 
