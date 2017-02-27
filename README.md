@@ -203,6 +203,7 @@ Manual 4 GoogleDoc(https://docs.google.com/document/d/1XwArUGVJ6aHF4bzUsFgNX3RUk
 | * [Module22](https://docs.google.com/document/d/1Kk0DBeLns3DAPKh9ssVlU65CjAxKv0g5YlKvCjBFmMA/edit?usp=sharing) | * [Video22]()    | Client Side Authenticated Routes  |
 | * [Module23](https://docs.google.com/document/d/1nQ1pJiQmGOlzHogbcles1HZMxrJZojsS-NAF_mv_NXk/edit?usp=sharing) | * [Video23]()    | Server Side Fetch All  |
 | * [Module24](https://docs.google.com/document/d/1tjRYfMkpXQsXMGKOFuNftbau9s_sjpUP4ilHb4jN5tg/edit?usp=sharing) | * [Video24]()    | Client Side Fetch All  |
+| * [Module25](https://docs.google.com/document/d/1B8DzlIEi5L-Bw4a4eCoHBt20al-lbCysU654l2Cbf8o/edit?usp=sharing) | * [Video24]()    | Server Side Fetch and Delete Single Item  |
 
 
 
