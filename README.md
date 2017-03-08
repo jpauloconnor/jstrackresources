@@ -205,7 +205,7 @@ Manual 4 GoogleDoc(https://docs.google.com/document/d/1XwArUGVJ6aHF4bzUsFgNX3RUk
 | * [Module24](https://docs.google.com/document/d/1tjRYfMkpXQsXMGKOFuNftbau9s_sjpUP4ilHb4jN5tg/edit?usp=sharing) | * [Video24]()    | Client Side Fetch All  |
 | * [Module25](https://docs.google.com/document/d/1B8DzlIEi5L-Bw4a4eCoHBt20al-lbCysU654l2Cbf8o/edit?usp=sharing) | * [Video25]()    | Server Side Fetch and Delete Single Item  |
 | * [Module26](https://docs.google.com/document/d/1wpaninmGY8iakXVVFJ7LQaQjesClXOTWYobfmyjp8o0/edit?usp=sharing) | * [Video26]()    | Server Side Fetch and Delete Single Item  |
-
+| * [Module27](https://docs.google.com/document/d/18HyxMM6R3ZUQt3kdi1pIMcTA_1dtxuboi7QaVYva7TY/edit?usp=sharing) | * [Video27]()    | Deployment Notes  |
 
 https://docs.google.com/document/d/1wpaninmGY8iakXVVFJ7LQaQjesClXOTWYobfmyjp8o0/edit?usp=sharing
 
