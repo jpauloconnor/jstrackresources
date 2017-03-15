@@ -6,6 +6,7 @@ A README.MD file for collecting resources.
   * [Assignments](#assignments)
   * [Manuals](#manuals)
   * [HTML5](#html5)
+  * [StoreApp](#storeapp)
   * [Wireframing](#wireframing)
   * [CSS](#css)
   * [JavaScript](#javascript)
@@ -25,7 +26,6 @@ A README.MD file for collecting resources.
 ## Assignments
 * [Store App Assignment](https://docs.google.com/document/d/1u-GN9Jh1kThcTJLgjX1vHCg1NXGevBMvVLCVPFRaMQ4/edit?usp=sharing) - Store App Assignment
 
-
 * [Store App Example Repo](https://github.com/jpauloconnor/SampleStoreApp) - Robot Store Example
 
 * [JavaScript Library](https://docs.google.com/document/d/16miQTFWoS0Pb2LDud_C6VzVEdqRq1fCk9YUiti_JV6k/edit?usp=sharing) - JS Library Assignment Sheet
@@ -39,7 +39,7 @@ A README.MD file for collecting resources.
 
 * [HTML, CSS, JavaScript](https://docs.google.com/document/d/1jvzzQpDZVHm6MdxBaozfmlk6Lzb9b2OIxIGaetSXSsw/edit?usp=sharing) - Notes and code from Week 1.
 
-
+## StoreApp
 | Module        | Video         | Concept  |
 | ------------- |:-------------:| -----:|
 | * [Module 1](https://www.youtube.com/watch?v=IfVjjpXb7qU&feature=youtu.be)   | Header |
