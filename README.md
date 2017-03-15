@@ -40,14 +40,14 @@ A README.MD file for collecting resources.
 * [HTML, CSS, JavaScript](https://docs.google.com/document/d/1jvzzQpDZVHm6MdxBaozfmlk6Lzb9b2OIxIGaetSXSsw/edit?usp=sharing) - Notes and code from Week 1.
 
 ## StoreApp
-| Module        | Video         | Concept  |
-| ------------- |:-------------:| -----:|
-| [Module 1] | (https://www.youtube.com/watch?v=IfVjjpXb7qU&feature=youtu.be)   | Header |
-| [Module 2] | (https://www.youtube.com/watch?v=6i-YKdON5iU&feature=youtu.be)   | Banner |
-| [Module 3] | (https://www.youtube.com/watch?v=-NZ2q03FotY&feature=youtu.be)   | Aside  |
-| [Module 4] | (https://www.youtube.com/watch?v=xyJ2X9V438w)   | Main Section |
-| [Module 5] | (https://www.youtube.com/watch?v=XzvmpfKoaOk)   | Main Section Part 2 |
-| [Module 6] | (https://www.youtube.com/watch?v=qreQvkNz2fA&feature=youtu.be&hd=1)   | Footer |
+| Module        | Video        | 
+| ------------- |:-------------:|
+| Module 1 | [Header](https://www.youtube.com/watch?v=IfVjjpXb7qU&feature=youtu.be)   | 
+| Module 2 | [Banner](https://www.youtube.com/watch?v=6i-YKdON5iU&feature=youtu.be)   | 
+| Module 3 | [Aside](https://www.youtube.com/watch?v=-NZ2q03FotY&feature=youtu.be)   | 
+| Module 4 | [Main Section](https://www.youtube.com/watch?v=xyJ2X9V438w)   | 
+| Module 5 | [Main Section p.2](https://www.youtube.com/watch?v=XzvmpfKoaOk)   | 
+| Module 6 | [Footer](https://www.youtube.com/watch?v=qreQvkNz2fA&feature=youtu.be&hd=1) | 
 
 * [jQuery Manual](https://docs.google.com/document/d/1EGO241rMJ8kkU3I1SdTjhO0iqJDdfflLejRuYMaGrFc/edit?usp=sharing) - jQuery Manual for walkthrough of basics.
 
