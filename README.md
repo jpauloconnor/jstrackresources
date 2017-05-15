@@ -108,15 +108,15 @@ A README.MD file for collecting resources.
 | ------------- |:-------------:| -----:|
 | * [Module1](https://docs.google.com/document/d/1tpRqQQupUPLk07twfAL1xDk_GErkyVaClZ-wGjNPOhg/edit?usp=sharing)      |* [Video1](https://youtu.be/wcUOor76kQ0)   | Client Set up |
 
-| * [Module2](https://docs.google.com/document/d/1f_EwH2OrKGodYceBgAYp3PwvUf7GiqAQC1qDmC8GK3I/edit?usp=sharing)      |* [Video2](https://youtu.be/OcNSIg1W6m0)| Server Set up |
+| * [Module2](https://docs.google.com/document/d/1f_EwH2OrKGodYceBgAYp3PwvUf7GiqAQC1qDmC8GK3I/edit?usp=sharing)      |* [Video2](https://youtu.be/OcNSIg1W6m0) | Server Set up |
 
-| * [Module3](https://docs.google.com/document/d/1LdGPivE4TJjhQXZXF9UVCLDHnX17iQBFP1pkoP7BO2Q/edit?usp=sharing)      |* [Video3](https://youtu.be/OcNSIg1W6m0)| Test API |
-
-
-| * [Module4](https://docs.google.com/document/d/1CMpORL-xiUt4ktvCUjxlGzwJio_mvtPoZPod6jfYeio/edit?usp=sharing)      |* [Video4]()| No video. Using Nodemon.js. |
+| * [Module3](https://docs.google.com/document/d/1LdGPivE4TJjhQXZXF9UVCLDHnX17iQBFP1pkoP7BO2Q/edit?usp=sharing)      |* [Video3](https://youtu.be/OcNSIg1W6m0) | Test API |
 
 
-| * [Module5](https://docs.google.com/document/d/1KmzAsoBxmxCyEMJZN86TefCjdip_iUA4O3YQgBlJXHw/edit?usp=sharing)      |* [Video5](https://youtu.be/qDUDvdIeDkY)| Middleware |
+| * [Module4](https://docs.google.com/document/d/1CMpORL-xiUt4ktvCUjxlGzwJio_mvtPoZPod6jfYeio/edit?usp=sharing)      |* [Video4]() | No video. Using Nodemon.js. |
+
+
+| * [Module5](https://docs.google.com/document/d/1KmzAsoBxmxCyEMJZN86TefCjdip_iUA4O3YQgBlJXHw/edit?usp=sharing)      |* [Video5](https://youtu.be/qDUDvdIeDkY) | Middleware |
 
 
 | * [Module6](https://docs.google.com/document/d/1o7ROBQvwXImBceiCkWbXv6qnEnK6sA0YLaSaB8oQuB4/edit?usp=sharing)      |* [Video6]()| Reflection |
