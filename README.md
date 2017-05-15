@@ -115,13 +115,15 @@ A README.MD file for collecting resources.
 | * [Module7](https://docs.google.com/document/d/1qtHc_IoW9qRK9_KQk5lHsYRMNH2XD2UD1k36YpTxgFM/edit?usp=sharing)      |* [Video7Part1](https://www.youtube.com/watch?v=GIYUcphrg10&feature=youtu.be)| Sequelize Part 1 |
 | * [Module7](https://docs.google.com/document/d/1qtHc_IoW9qRK9_KQk5lHsYRMNH2XD2UD1k36YpTxgFM/edit?usp=sharing)      |* [Video7Part2](https://www.youtube.com/watch?v=Uf_imd1c04s&feature=youtu.be)| Sequelize Part 2 |
 | * [Module8](https://docs.google.com/document/d/1_Yg3L9iv2pJaXeoupRbwxP7y_dAzajOL87sBZG6Ma9U/edit?usp=sharing)      |* [Video8]()| ??? |
+| * [Module9](https://docs.google.com/document/d/1zSbOMpuaX4GiynlJMIRg-f5D1r3IBiRsFxH0x0fq1m4/edit?usp=sharing)      |* [Video9](https://youtu.be/gorBPuuhJoU)| ??? |
+
+| * [Module10](https://docs.google.com/document/d/1wWx6BcSCsFoHNMR5ADSD8KP9_EgU-GY5iMcpGy5aa2U/edit?usp=sharing)      |* [Video10](https://youtu.be/HPVm0xGIZkM)| Routes |
+
+| * [Module11](https://docs.google.com/document/d/1EDtQVNp_xBP9sVufaUVpYm1tL1GDKdRMNqTo0I6qNbY/edit?usp=sharingg)      |* [Video11Part1](https://youtu.be/hHN2Sgjv67Y)| bcrypt part 1 |
+
+| * [Module11](https://docs.google.com/document/d/1EDtQVNp_xBP9sVufaUVpYm1tL1GDKdRMNqTo0I6qNbY/edit?usp=sharing)      |* [Video11Part2](https://youtu.be/hHN2Sgjv67Y)| bcrypt part 2 |
 
 
-
-* [WorkoutLogVideo9](https://youtu.be/gorBPuuhJoU) - Refactor
-* [WorkoutLogVideo10](https://youtu.be/HPVm0xGIZkM) - Routes
-* [WorkoutLogVideo11Part1](https://youtu.be/hHN2Sgjv67Y) - bcrypt part 1
-* [WorkoutLogVideo11Part2](https://youtu.be/hHN2Sgjv67Y) - bcrypt part 2
 * [WorkoutLogVideo12part1](https://youtu.be/at-dqveuOJI) - Validate Session Part 1
 * [WorkoutLogVideo12part2](https://youtu.be/uy4XzuaQbjg) - Validate Session Part 2
 * [WorkoutLogVideo12part2](https://youtu.be/vRbYmZmGc5s) - Validate Session Part 3
