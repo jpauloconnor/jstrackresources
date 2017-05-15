@@ -116,27 +116,24 @@ A README.MD file for collecting resources.
 | * [Module7](https://docs.google.com/document/d/1qtHc_IoW9qRK9_KQk5lHsYRMNH2XD2UD1k36YpTxgFM/edit?usp=sharing)      |* [Video7Part2](https://www.youtube.com/watch?v=Uf_imd1c04s&feature=youtu.be)| Sequelize Part 2 |
 | * [Module8](https://docs.google.com/document/d/1_Yg3L9iv2pJaXeoupRbwxP7y_dAzajOL87sBZG6Ma9U/edit?usp=sharing)      |* [Video8]()| ??? |
 | * [Module9](https://docs.google.com/document/d/1zSbOMpuaX4GiynlJMIRg-f5D1r3IBiRsFxH0x0fq1m4/edit?usp=sharing)      |* [Video9](https://youtu.be/gorBPuuhJoU)| ??? |
-
 | * [Module10](https://docs.google.com/document/d/1wWx6BcSCsFoHNMR5ADSD8KP9_EgU-GY5iMcpGy5aa2U/edit?usp=sharing)      |* [Video10](https://youtu.be/HPVm0xGIZkM)| Routes |
-
 | * [Module11](https://docs.google.com/document/d/1EDtQVNp_xBP9sVufaUVpYm1tL1GDKdRMNqTo0I6qNbY/edit?usp=sharingg)      |* [Video11Part1](https://youtu.be/hHN2Sgjv67Y)| bcrypt part 1 |
-
 | * [Module11](https://docs.google.com/document/d/1EDtQVNp_xBP9sVufaUVpYm1tL1GDKdRMNqTo0I6qNbY/edit?usp=sharing)      |* [Video11Part2](https://youtu.be/hHN2Sgjv67Y)| bcrypt part 2 |
-
-
-* [WorkoutLogVideo12part1](https://youtu.be/at-dqveuOJI) - Validate Session Part 1
-* [WorkoutLogVideo12part2](https://youtu.be/uy4XzuaQbjg) - Validate Session Part 2
-* [WorkoutLogVideo12part2](https://youtu.be/vRbYmZmGc5s) - Validate Session Part 3
-* [WorkoutLogVideo13](https://youtu.be/RGt_118OLn8) - uiaddtion, login modal 
-* [WorkoutLogVideo14and15part1](https://youtu.be/Uf_-kaee9lU) - signup part 1
-* [WorkoutLogVideo14and15part2](https://youtu.be/0Iu0ng5w33A) - signup part 2
-* [WorkoutLogVideo14and15part3](https://youtu.be/Azpsq7q51Bk) - signup part 3
-* [WorkoutLogVideo16](https://youtu.be/sVpnMy58NtI) - loginlogout
-* [WorkoutLogVideo17and18](https://youtu.be/3tkupOKlhCE) - 17 & 18 & Define
-* [WorkoutLogVideo19and20](https://youtu.be/SDDOusRHWHo) - 19 & 20 Log
-* [WorkoutLogVideo21](https://youtu.be/o0HFATH7m_E) - UIEnhancements
-* [WorkoutLogVideo22]()
-* [WorkoutLogVideo23]()
+| * [Module12](https://docs.google.com/document/d/1Et1Bp0HXb5IgTR8IXCeS2Lx0lBpnQLjtzfAgNZ08wFs/edit?usp=sharing)      |* [Video12Part1](https://youtu.be/at-dqveuOJI)| Validate Session Part 1 |
+| * [Module12](https://docs.google.com/document/d/1Et1Bp0HXb5IgTR8IXCeS2Lx0lBpnQLjtzfAgNZ08wFs/edit?usp=sharing)      |* [Video12Part2](https://youtu.be/uy4XzuaQbjg)| Validate Session Part 2 |
+| * [Module12](https://docs.google.com/document/d/1Et1Bp0HXb5IgTR8IXCeS2Lx0lBpnQLjtzfAgNZ08wFs/edit?usp=sharing)      |* [Video12Part3](https://youtu.be/vRbYmZmGc5s)| Validate Session Part 3 |
+| * [Module13](https://docs.google.com/document/d/14-IRXtlGzut-Ok91RG3WCspE0kdu3e9hK3TWhnhTyY4/edit?usp=sharing)      |* [Video13](https://youtu.be/RGt_118OLn8)| uiaddtion, login modal  |
+| * [Module14and15](https://docs.google.com/document/d/1Cxjj_d6_rUrE7AqM9q8ZtxYm25dH5GMNdcf-4Vj3S_M/edit?usp=sharing)      |* [Video14&15](https://youtu.be/Uf_-kaee9lU)| Signup Part 1 |
+| * [Module14and15](https://docs.google.com/document/d/1Cxjj_d6_rUrE7AqM9q8ZtxYm25dH5GMNdcf-4Vj3S_M/edit?usp=sharing)      |* [Video14&15](https://youtu.be/0Iu0ng5w33A)| Signup Part 2 |
+| * [Module14and15](https://docs.google.com/document/d/1Cxjj_d6_rUrE7AqM9q8ZtxYm25dH5GMNdcf-4Vj3S_M/edit?usp=sharing)      |* [Video14&15](https://youtu.be/Azpsq7q51Bk)| Signup Part 3 |
+| * [Module16](https://docs.google.com/document/d/17LBwVgR6X_JSYMIRsjw74J5IBNaa8ii9PHa8HEYbZ30/edit?usp=sharing)      |* [Video16](https://youtu.be/sVpnMy58NtI)| Login & Logout |
+| * [Module17](https://docs.google.com/document/d/1r1hxVihEYN_QnSIXkvp64paDx6X6Wc8SGpKsyLeeEIQ/edit?usp=sharing)      |* [Video17](https://youtu.be/3tkupOKlhCE)| Define |
+| * [Module18](https://docs.google.com/document/d/1lIHHdhNIlLOQ84iY8x2TWDEh59fNEBI-X7F7_oxni7Y/edit?usp=sharing)      |* [Video18](https://youtu.be/3tkupOKlhCE)| Client Definition |
+| * [Module19](https://docs.google.com/document/d/11tb_gC8g3GxEyLVRxk9aRiTSJDIjtB-zdEmNbWfWexA/edit?usp=sharing)      |* [Video19](https://youtu.be/SDDOusRHWHo)| Client Definition |
+| * [Module20](https://docs.google.com/document/d/15OF9s6u-UJOhYIZPTR7yN6eOyuQ6LtWJvkYAO0_hWWc/edit?usp=sharing)      |* [Video20](https://youtu.be/SDDOusRHWHo)| Log |
+| * [Module21](https://docs.google.com/document/d/1oyV-h-jTk8ktSuhxOGFgHmc49pufBHwKy4520LX-C88/edit?usp=sharing)      |* [Video21](https://youtu.be/o0HFATH7m_E)| UI Enhancement |
+| * [Module22](https://docs.google.com/document/d/1Z6icV1LVa5A_F2JYQxa2rzUu14TY7GsDBpP4MRcO0G0/edit?usp=sharing)      |* [Video22](https://youtu.be/o0HFATH7m_E)| |
+| * [Module23](https://docs.google.com/document/d/1CmofeWtL1n7EX2i84VY-x9hKJlsFwhgWgtYLGetkWKA/edit?usp=sharing)      |* [Video23]()|  |
 * [WorkoutLogManualRepo](https://github.com/ElevenfiftyAcademy/JS201-WorkoutLog-Manual) WorkoutLog Manual Repo
 * [WorkoutLogCodeRepo](https://github.com/ElevenfiftyAcademy/JavaScript-201-WorkoutlogApp) - WorkoutLog Code Repo
 Manual 4 GoogleDoc(https://docs.google.com/document/d/1XwArUGVJ6aHF4bzUsFgNX3RUkhidkBeh38qOAmKnXN4/edit)
