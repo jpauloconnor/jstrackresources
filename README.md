@@ -104,8 +104,13 @@ A README.MD file for collecting resources.
 * [APIs](https://github.com/toddmotto/public-apis#news) - A list of open APIs to work with.
 
 ## WorkoutLogVideos
-* [WorkoutLogVideo1](https://youtu.be/wcUOor76kQ0) Client Set up
-* [WorkoutLogVideo2](https://youtu.be/OcNSIg1W6m0) Server Set up
+| Module        | Video         | Concept  |
+| ------------- |:-------------:| -----:|
+| * [Module1](https://docs.google.com/document/d/1tpRqQQupUPLk07twfAL1xDk_GErkyVaClZ-wGjNPOhg/edit?usp=sharing)      |* [Video1](https://youtu.be/wcUOor76kQ0)   | Client Set up |
+
+| * [Module2](https://docs.google.com/document/d/1f_EwH2OrKGodYceBgAYp3PwvUf7GiqAQC1qDmC8GK3I/edit?usp=sharing)      |* [WorkoutLogVideo2](https://youtu.be/OcNSIg1W6m0)| Server Set up |
+
+*  Server Set up
 * [WorkoutLogVideo3](https://youtu.be/HnL9QXEmA2g) Test API
 * [WorkoutLogVideo4]() No video. Using Nodemon.js.
 * [WorkoutLogVideo5](https://youtu.be/qDUDvdIeDkY) - Middleware
