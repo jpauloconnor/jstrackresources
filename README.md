@@ -215,5 +215,8 @@ https://docs.google.com/document/d/1wpaninmGY8iakXVVFJ7LQaQjesClXOTWYobfmyjp8o0/
 
 
 
+## React
+| * [ReactRocks](https://react.rocks/) | React Rocks|
+| * [ReactPatterns](http://reactpatterns.com/) | React Patterns|
 
 
