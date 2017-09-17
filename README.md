@@ -19,6 +19,8 @@ A README.MD file for collecting resources.
   * [WorkoutLogVIdeos](#workoutlogvideos)
   * [MEAN](#mean)
   * [PizzaPostman](#pizzapostman)
+  * [ReactFundamentals](#reactfundamentals)
+
   * [MERN](#mern)
 
 
@@ -155,6 +157,13 @@ Manual 4 GoogleDoc(https://docs.google.com/document/d/1XwArUGVJ6aHF4bzUsFgNX3RUk
 * [PostmanChallenge](https://docs.google.com/document/d/17j_6c_MrBKJmYG2FRZV91tOS8zgQ0kHlc7QQpfvTugQ/edit?usp=sharing) - Postman Challenge 
 
 
+## React
+
+* [CreateReactApp](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md) - Create React App is a great way to get started. Comes out of the box with all the Node Modules you need to get started.
+* [ReactRouter](https://github.com/ReactTraining/react-router) - React Router
+* [ReactRocks](https://react.rocks/) - React Rocks
+* [ReactPatterns](http://reactpatterns.com/) - React Patterns
+
 
 ## MERN
 
@@ -211,12 +220,3 @@ Manual 4 GoogleDoc(https://docs.google.com/document/d/1XwArUGVJ6aHF4bzUsFgNX3RUk
 | * [Module27](https://docs.google.com/document/d/18HyxMM6R3ZUQt3kdi1pIMcTA_1dtxuboi7QaVYva7TY/edit?usp=sharing) | * [Video27]()    | Deployment Notes  |
 
 https://docs.google.com/document/d/1wpaninmGY8iakXVVFJ7LQaQjesClXOTWYobfmyjp8o0/edit?usp=sharing
-
-
-
-
-## React
-| * [ReactRocks](https://react.rocks/) | React Rocks|
-| * [ReactPatterns](http://reactpatterns.com/) | React Patterns|
-
-
